@@ -1,2 +1,2 @@
-# eas510-project2-50755499-50745133
+# eas510-project2-pshaw-avimtaaj
 EAS 510 Project 2
