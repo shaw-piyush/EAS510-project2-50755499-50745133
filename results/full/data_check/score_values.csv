@@ -1,0 +1,947 @@
+eval_name,model,n_rows,n_unique,values,is_binary
+Chinese_character_riddles,gpt-3.5-turbo-1106,100,2,0 1,True
+Chinese_character_riddles,claude-instant-v1,100,2,0 1,True
+Chinese_character_riddles,claude-v1,100,2,0 1,True
+Chinese_character_riddles,claude-v2,100,2,0 1,True
+Chinese_character_riddles,gpt-4-1106-preview,100,2,0 1,True
+Chinese_character_riddles,meta/llama-2-70b-chat,100,1,0,True
+Chinese_character_riddles,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+Chinese_character_riddles,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+Chinese_character_riddles,WizardLM/WizardLM-13B-V1.2,100,1,0,True
+Chinese_character_riddles,meta/code-llama-instruct-34b-chat,100,2,0 1,True
+Chinese_character_riddles,mistralai/mistral-7b-chat,100,2,0 1,True
+abstract2title,gpt-3.5-turbo-1106,254,1,1,True
+abstract2title,claude-instant-v1,254,2,0 1,True
+abstract2title,claude-v1,254,2,0 1,True
+abstract2title,claude-v2,254,1,1,True
+abstract2title,gpt-4-1106-preview,254,1,1,True
+abstract2title,meta/llama-2-70b-chat,254,2,0 1,True
+abstract2title,mistralai/mixtral-8x7b-chat,254,2,0 1,True
+abstract2title,zero-one-ai/Yi-34B-Chat,254,1,1,True
+abstract2title,WizardLM/WizardLM-13B-V1.2,254,2,0 1,True
+abstract2title,meta/code-llama-instruct-34b-chat,254,2,0 1,True
+abstract2title,mistralai/mistral-7b-chat,254,2,0 1,True
+accounting_audit,gpt-3.5-turbo-1106,30,2,0 1,True
+accounting_audit,claude-instant-v1,30,2,0 1,True
+accounting_audit,claude-v1,30,2,0 1,True
+accounting_audit,claude-v2,30,2,0 1,True
+accounting_audit,gpt-4-1106-preview,30,2,0 1,True
+accounting_audit,meta/llama-2-70b-chat,30,1,0,True
+accounting_audit,mistralai/mixtral-8x7b-chat,30,2,0 1,True
+accounting_audit,zero-one-ai/Yi-34B-Chat,30,2,0 1,True
+accounting_audit,WizardLM/WizardLM-13B-V1.2,30,2,0 1,True
+accounting_audit,meta/code-llama-instruct-34b-chat,30,1,0,True
+accounting_audit,mistralai/mistral-7b-chat,30,2,0 1,True
+arc-challenge,gpt-3.5-turbo-1106,1470,2,0 1,True
+arc-challenge,claude-instant-v1,1470,2,0 1,True
+arc-challenge,claude-v1,1470,2,0 1,True
+arc-challenge,claude-v2,1470,2,0 1,True
+arc-challenge,gpt-4-1106-preview,1470,2,0 1,True
+arc-challenge,meta/llama-2-70b-chat,1470,2,0 1,True
+arc-challenge,mistralai/mixtral-8x7b-chat,1470,2,0 1,True
+arc-challenge,zero-one-ai/Yi-34B-Chat,1470,2,0 1,True
+arc-challenge,WizardLM/WizardLM-13B-V1.2,1470,2,0 1,True
+arc-challenge,meta/code-llama-instruct-34b-chat,1470,2,0 1,True
+arc-challenge,mistralai/mistral-7b-chat,1470,2,0 1,True
+bias_detection,gpt-3.5-turbo-1106,285,2,0 1,True
+bias_detection,claude-instant-v1,285,2,0 1,True
+bias_detection,claude-v1,285,2,0 1,True
+bias_detection,claude-v2,285,2,0 1,True
+bias_detection,gpt-4-1106-preview,285,2,0 1,True
+bias_detection,meta/llama-2-70b-chat,285,2,0 1,True
+bias_detection,mistralai/mixtral-8x7b-chat,285,2,0 1,True
+bias_detection,zero-one-ai/Yi-34B-Chat,285,2,0 1,True
+bias_detection,WizardLM/WizardLM-13B-V1.2,285,2,0 1,True
+bias_detection,meta/code-llama-instruct-34b-chat,285,2,0 1,True
+bias_detection,mistralai/mistral-7b-chat,285,2,0 1,True
+chinese-lantern-riddles,gpt-3.5-turbo-1106,20,2,0 1,True
+chinese-lantern-riddles,claude-instant-v1,20,1,0,True
+chinese-lantern-riddles,claude-v1,20,2,0 1,True
+chinese-lantern-riddles,claude-v2,20,2,0 1,True
+chinese-lantern-riddles,gpt-4-1106-preview,20,2,0 1,True
+chinese-lantern-riddles,meta/llama-2-70b-chat,20,1,0,True
+chinese-lantern-riddles,mistralai/mixtral-8x7b-chat,20,1,0,True
+chinese-lantern-riddles,zero-one-ai/Yi-34B-Chat,20,2,0 1,True
+chinese-lantern-riddles,WizardLM/WizardLM-13B-V1.2,20,1,0,True
+chinese-lantern-riddles,meta/code-llama-instruct-34b-chat,20,1,0,True
+chinese-lantern-riddles,mistralai/mistral-7b-chat,20,1,0,True
+chinese-remainder-theorem,gpt-3.5-turbo-1106,15,2,0 1,True
+chinese-remainder-theorem,claude-instant-v1,15,1,0,True
+chinese-remainder-theorem,claude-v1,15,1,0,True
+chinese-remainder-theorem,claude-v2,15,1,0,True
+chinese-remainder-theorem,gpt-4-1106-preview,15,2,0 1,True
+chinese-remainder-theorem,meta/llama-2-70b-chat,15,1,0,True
+chinese-remainder-theorem,mistralai/mixtral-8x7b-chat,15,1,0,True
+chinese-remainder-theorem,zero-one-ai/Yi-34B-Chat,15,1,0,True
+chinese-remainder-theorem,WizardLM/WizardLM-13B-V1.2,15,1,0,True
+chinese-remainder-theorem,meta/code-llama-instruct-34b-chat,15,1,0,True
+chinese-remainder-theorem,mistralai/mistral-7b-chat,15,1,0,True
+chinese_ancient_masterpieces_dynasty,gpt-3.5-turbo-1106,16,1,0,True
+chinese_ancient_masterpieces_dynasty,claude-instant-v1,16,2,0 1,True
+chinese_ancient_masterpieces_dynasty,claude-v1,16,1,0,True
+chinese_ancient_masterpieces_dynasty,claude-v2,16,2,0 1,True
+chinese_ancient_masterpieces_dynasty,gpt-4-1106-preview,16,2,0 1,True
+chinese_ancient_masterpieces_dynasty,meta/llama-2-70b-chat,16,1,0,True
+chinese_ancient_masterpieces_dynasty,mistralai/mixtral-8x7b-chat,16,2,0 1,True
+chinese_ancient_masterpieces_dynasty,zero-one-ai/Yi-34B-Chat,16,2,0 1,True
+chinese_ancient_masterpieces_dynasty,WizardLM/WizardLM-13B-V1.2,16,2,0 1,True
+chinese_ancient_masterpieces_dynasty,meta/code-llama-instruct-34b-chat,16,1,0,True
+chinese_ancient_masterpieces_dynasty,mistralai/mistral-7b-chat,16,1,0,True
+chinese_ancient_poetry,gpt-3.5-turbo-1106,25,1,0,True
+chinese_ancient_poetry,claude-instant-v1,25,1,0,True
+chinese_ancient_poetry,claude-v1,25,1,0,True
+chinese_ancient_poetry,claude-v2,25,2,0 1,True
+chinese_ancient_poetry,gpt-4-1106-preview,25,2,0 1,True
+chinese_ancient_poetry,meta/llama-2-70b-chat,25,1,0,True
+chinese_ancient_poetry,mistralai/mixtral-8x7b-chat,25,1,0,True
+chinese_ancient_poetry,zero-one-ai/Yi-34B-Chat,25,2,0 1,True
+chinese_ancient_poetry,WizardLM/WizardLM-13B-V1.2,25,1,0,True
+chinese_ancient_poetry,meta/code-llama-instruct-34b-chat,25,1,0,True
+chinese_ancient_poetry,mistralai/mistral-7b-chat,25,1,0,True
+chinese_chu_ci,gpt-3.5-turbo-1106,15,2,0 1,True
+chinese_chu_ci,claude-instant-v1,15,1,0,True
+chinese_chu_ci,claude-v1,15,2,0 1,True
+chinese_chu_ci,claude-v2,15,1,0,True
+chinese_chu_ci,gpt-4-1106-preview,15,2,0 1,True
+chinese_chu_ci,meta/llama-2-70b-chat,15,1,0,True
+chinese_chu_ci,mistralai/mixtral-8x7b-chat,15,1,0,True
+chinese_chu_ci,zero-one-ai/Yi-34B-Chat,15,1,0,True
+chinese_chu_ci,WizardLM/WizardLM-13B-V1.2,15,1,0,True
+chinese_chu_ci,meta/code-llama-instruct-34b-chat,15,1,0,True
+chinese_chu_ci,mistralai/mistral-7b-chat,15,2,0 1,True
+chinese_famous_novel,gpt-3.5-turbo-1106,20,2,0 1,True
+chinese_famous_novel,claude-instant-v1,20,2,0 1,True
+chinese_famous_novel,claude-v1,20,2,0 1,True
+chinese_famous_novel,claude-v2,20,2,0 1,True
+chinese_famous_novel,gpt-4-1106-preview,20,2,0 1,True
+chinese_famous_novel,meta/llama-2-70b-chat,20,1,0,True
+chinese_famous_novel,mistralai/mixtral-8x7b-chat,20,1,0,True
+chinese_famous_novel,zero-one-ai/Yi-34B-Chat,20,1,0,True
+chinese_famous_novel,WizardLM/WizardLM-13B-V1.2,20,1,0,True
+chinese_famous_novel,meta/code-llama-instruct-34b-chat,20,1,0,True
+chinese_famous_novel,mistralai/mistral-7b-chat,20,1,0,True
+chinese_hard_translations,gpt-3.5-turbo-1106,21,2,0 1,True
+chinese_hard_translations,claude-instant-v1,21,2,0 1,True
+chinese_hard_translations,claude-v1,21,2,0 1,True
+chinese_hard_translations,claude-v2,21,2,0 1,True
+chinese_hard_translations,gpt-4-1106-preview,21,2,0 1,True
+chinese_hard_translations,meta/llama-2-70b-chat,21,2,0 1,True
+chinese_hard_translations,mistralai/mixtral-8x7b-chat,21,2,0 1,True
+chinese_hard_translations,zero-one-ai/Yi-34B-Chat,21,2,0 1,True
+chinese_hard_translations,WizardLM/WizardLM-13B-V1.2,21,2,0 1,True
+chinese_hard_translations,meta/code-llama-instruct-34b-chat,21,2,0 1,True
+chinese_hard_translations,mistralai/mistral-7b-chat,21,2,0 1,True
+chinese_homonym,gpt-3.5-turbo-1106,21,2,0 1,True
+chinese_homonym,claude-instant-v1,21,2,0 1,True
+chinese_homonym,claude-v1,21,2,0 1,True
+chinese_homonym,claude-v2,21,2,0 1,True
+chinese_homonym,gpt-4-1106-preview,21,2,0 1,True
+chinese_homonym,meta/llama-2-70b-chat,21,1,0,True
+chinese_homonym,mistralai/mixtral-8x7b-chat,21,2,0 1,True
+chinese_homonym,zero-one-ai/Yi-34B-Chat,21,1,0,True
+chinese_homonym,WizardLM/WizardLM-13B-V1.2,21,2,0 1,True
+chinese_homonym,meta/code-llama-instruct-34b-chat,21,1,0,True
+chinese_homonym,mistralai/mistral-7b-chat,21,2,0 1,True
+chinese_idioms,gpt-3.5-turbo-1106,15,4,0 0.25 0.75 1,False
+chinese_idioms,claude-instant-v1,15,3,0 0.25 0.75,False
+chinese_idioms,claude-v1,15,4,0 0.25 0.75 1,False
+chinese_idioms,claude-v2,15,4,0 0.25 0.75 1,False
+chinese_idioms,gpt-4-1106-preview,15,4,0 0.25 0.75 1,False
+chinese_idioms,meta/llama-2-70b-chat,15,3,0 0.25 0.75,False
+chinese_idioms,mistralai/mixtral-8x7b-chat,15,3,0 0.25 0.75,False
+chinese_idioms,zero-one-ai/Yi-34B-Chat,15,4,0 0.25 0.75 1,False
+chinese_idioms,WizardLM/WizardLM-13B-V1.2,15,4,0 0.25 0.75 1,False
+chinese_idioms,meta/code-llama-instruct-34b-chat,15,3,0 0.25 1,False
+chinese_idioms,mistralai/mistral-7b-chat,15,3,0.25 0.75 1,False
+chinese_modern_poem_identification,gpt-3.5-turbo-1106,21,2,0 1,True
+chinese_modern_poem_identification,claude-instant-v1,21,1,0,True
+chinese_modern_poem_identification,claude-v1,21,1,0,True
+chinese_modern_poem_identification,claude-v2,21,2,0 1,True
+chinese_modern_poem_identification,gpt-4-1106-preview,21,2,0 1,True
+chinese_modern_poem_identification,meta/llama-2-70b-chat,21,1,0,True
+chinese_modern_poem_identification,mistralai/mixtral-8x7b-chat,21,1,0,True
+chinese_modern_poem_identification,zero-one-ai/Yi-34B-Chat,21,1,0,True
+chinese_modern_poem_identification,WizardLM/WizardLM-13B-V1.2,21,1,0,True
+chinese_modern_poem_identification,meta/code-llama-instruct-34b-chat,21,1,0,True
+chinese_modern_poem_identification,mistralai/mistral-7b-chat,21,1,0,True
+chinese_poem,gpt-3.5-turbo-1106,15,2,0 1,True
+chinese_poem,claude-instant-v1,15,1,0,True
+chinese_poem,claude-v1,15,2,0 1,True
+chinese_poem,claude-v2,15,1,0,True
+chinese_poem,gpt-4-1106-preview,15,2,0 1,True
+chinese_poem,meta/llama-2-70b-chat,15,1,0,True
+chinese_poem,mistralai/mixtral-8x7b-chat,15,1,0,True
+chinese_poem,zero-one-ai/Yi-34B-Chat,15,1,0,True
+chinese_poem,WizardLM/WizardLM-13B-V1.2,15,1,0,True
+chinese_poem,meta/code-llama-instruct-34b-chat,15,1,0,True
+chinese_poem,mistralai/mistral-7b-chat,15,1,0,True
+chinese_shi_jing,gpt-3.5-turbo-1106,34,2,0 1,True
+chinese_shi_jing,claude-instant-v1,34,2,0 1,True
+chinese_shi_jing,claude-v1,34,2,0 1,True
+chinese_shi_jing,claude-v2,34,2,0 1,True
+chinese_shi_jing,gpt-4-1106-preview,34,2,0 1,True
+chinese_shi_jing,meta/llama-2-70b-chat,34,1,0,True
+chinese_shi_jing,mistralai/mixtral-8x7b-chat,34,2,0 1,True
+chinese_shi_jing,zero-one-ai/Yi-34B-Chat,34,1,0,True
+chinese_shi_jing,WizardLM/WizardLM-13B-V1.2,34,2,0 1,True
+chinese_shi_jing,meta/code-llama-instruct-34b-chat,34,1,0,True
+chinese_shi_jing,mistralai/mistral-7b-chat,34,2,0 1,True
+chinese_song_ci,gpt-3.5-turbo-1106,16,2,0 1,True
+chinese_song_ci,claude-instant-v1,16,2,0 1,True
+chinese_song_ci,claude-v1,16,2,0 1,True
+chinese_song_ci,claude-v2,16,2,0 1,True
+chinese_song_ci,gpt-4-1106-preview,16,2,0 1,True
+chinese_song_ci,meta/llama-2-70b-chat,16,1,0,True
+chinese_song_ci,mistralai/mixtral-8x7b-chat,16,1,0,True
+chinese_song_ci,zero-one-ai/Yi-34B-Chat,16,1,0,True
+chinese_song_ci,WizardLM/WizardLM-13B-V1.2,16,2,0 1,True
+chinese_song_ci,meta/code-llama-instruct-34b-chat,16,1,0,True
+chinese_song_ci,mistralai/mistral-7b-chat,16,1,0,True
+chinese_tang_poetries,gpt-3.5-turbo-1106,37,2,0 1,True
+chinese_tang_poetries,claude-instant-v1,37,2,0 1,True
+chinese_tang_poetries,claude-v1,37,2,0 1,True
+chinese_tang_poetries,claude-v2,37,2,0 1,True
+chinese_tang_poetries,gpt-4-1106-preview,37,2,0 1,True
+chinese_tang_poetries,meta/llama-2-70b-chat,37,1,0,True
+chinese_tang_poetries,mistralai/mixtral-8x7b-chat,37,1,0,True
+chinese_tang_poetries,zero-one-ai/Yi-34B-Chat,37,1,0,True
+chinese_tang_poetries,WizardLM/WizardLM-13B-V1.2,37,1,0,True
+chinese_tang_poetries,meta/code-llama-instruct-34b-chat,37,1,0,True
+chinese_tang_poetries,mistralai/mistral-7b-chat,37,1,0,True
+chinese_zodiac,gpt-3.5-turbo-1106,394,2,0 1,True
+chinese_zodiac,claude-instant-v1,394,2,0 1,True
+chinese_zodiac,claude-v1,394,2,0 1,True
+chinese_zodiac,claude-v2,394,2,0 1,True
+chinese_zodiac,gpt-4-1106-preview,394,2,0 1,True
+chinese_zodiac,meta/llama-2-70b-chat,394,1,0,True
+chinese_zodiac,mistralai/mixtral-8x7b-chat,394,2,0 1,True
+chinese_zodiac,zero-one-ai/Yi-34B-Chat,394,2,0 1,True
+chinese_zodiac,WizardLM/WizardLM-13B-V1.2,394,2,0 1,True
+chinese_zodiac,meta/code-llama-instruct-34b-chat,394,1,0,True
+chinese_zodiac,mistralai/mistral-7b-chat,394,2,0 1,True
+consensus_summary,gpt-3.5-turbo-1106,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,claude-instant-v1,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,claude-v1,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,claude-v2,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,gpt-4-1106-preview,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,meta/llama-2-70b-chat,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,mistralai/mixtral-8x7b-chat,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,zero-one-ai/Yi-34B-Chat,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,WizardLM/WizardLM-13B-V1.2,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,meta/code-llama-instruct-34b-chat,362,5,0 0.25 0.5 0.75 1,False
+consensus_summary,mistralai/mistral-7b-chat,362,5,0 0.25 0.5 0.75 1,False
+grade-school-math,gpt-3.5-turbo-1106,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,claude-instant-v1,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,claude-v1,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,claude-v2,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,gpt-4-1106-preview,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,meta/llama-2-70b-chat,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,mistralai/mixtral-8x7b-chat,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,zero-one-ai/Yi-34B-Chat,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,WizardLM/WizardLM-13B-V1.2,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,meta/code-llama-instruct-34b-chat,7450,5,0 0.25 0.5 0.75 1,False
+grade-school-math,mistralai/mistral-7b-chat,7450,5,0 0.25 0.5 0.75 1,False
+hellaswag,gpt-3.5-turbo-1106,10042,2,0 1,True
+hellaswag,claude-instant-v1,10042,2,0 1,True
+hellaswag,claude-v1,10042,2,0 1,True
+hellaswag,claude-v2,10042,2,0 1,True
+hellaswag,gpt-4-1106-preview,10042,2,0 1,True
+hellaswag,meta/llama-2-70b-chat,10042,2,0 1,True
+hellaswag,mistralai/mixtral-8x7b-chat,10042,2,0 1,True
+hellaswag,zero-one-ai/Yi-34B-Chat,10042,2,0 1,True
+hellaswag,WizardLM/WizardLM-13B-V1.2,10042,2,0 1,True
+hellaswag,meta/code-llama-instruct-34b-chat,10042,2,0 1,True
+hellaswag,mistralai/mistral-7b-chat,10042,2,0 1,True
+mbpp,gpt-3.5-turbo-1106,427,2,0 1,True
+mbpp,claude-instant-v1,427,2,0 1,True
+mbpp,claude-v1,427,2,0 1,True
+mbpp,claude-v2,427,2,0 1,True
+mbpp,gpt-4-1106-preview,427,2,0 1,True
+mbpp,meta/llama-2-70b-chat,427,2,0 1,True
+mbpp,mistralai/mixtral-8x7b-chat,427,2,0 1,True
+mbpp,zero-one-ai/Yi-34B-Chat,427,2,0 1,True
+mbpp,WizardLM/WizardLM-13B-V1.2,427,2,0 1,True
+mbpp,meta/code-llama-instruct-34b-chat,427,2,0 1,True
+mbpp,mistralai/mistral-7b-chat,427,2,0 1,True
+mmlu-abstract-algebra,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-abstract-algebra,claude-instant-v1,100,2,0 1,True
+mmlu-abstract-algebra,claude-v1,100,2,0 1,True
+mmlu-abstract-algebra,claude-v2,100,2,0 1,True
+mmlu-abstract-algebra,gpt-4-1106-preview,100,2,0 1,True
+mmlu-abstract-algebra,meta/llama-2-70b-chat,100,1,0,True
+mmlu-abstract-algebra,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-abstract-algebra,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-abstract-algebra,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-abstract-algebra,meta/code-llama-instruct-34b-chat,100,1,0,True
+mmlu-abstract-algebra,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-anatomy,gpt-3.5-turbo-1106,135,2,0 1,True
+mmlu-anatomy,claude-instant-v1,135,2,0 1,True
+mmlu-anatomy,claude-v1,135,2,0 1,True
+mmlu-anatomy,claude-v2,135,2,0 1,True
+mmlu-anatomy,gpt-4-1106-preview,135,2,0 1,True
+mmlu-anatomy,meta/llama-2-70b-chat,135,2,0 1,True
+mmlu-anatomy,mistralai/mixtral-8x7b-chat,135,2,0 1,True
+mmlu-anatomy,zero-one-ai/Yi-34B-Chat,135,2,0 1,True
+mmlu-anatomy,WizardLM/WizardLM-13B-V1.2,135,2,0 1,True
+mmlu-anatomy,meta/code-llama-instruct-34b-chat,135,1,0,True
+mmlu-anatomy,mistralai/mistral-7b-chat,135,2,0 1,True
+mmlu-astronomy,gpt-3.5-turbo-1106,152,2,0 1,True
+mmlu-astronomy,claude-instant-v1,152,2,0 1,True
+mmlu-astronomy,claude-v1,152,2,0 1,True
+mmlu-astronomy,claude-v2,152,2,0 1,True
+mmlu-astronomy,gpt-4-1106-preview,152,2,0 1,True
+mmlu-astronomy,meta/llama-2-70b-chat,152,2,0 1,True
+mmlu-astronomy,mistralai/mixtral-8x7b-chat,152,2,0 1,True
+mmlu-astronomy,zero-one-ai/Yi-34B-Chat,152,2,0 1,True
+mmlu-astronomy,WizardLM/WizardLM-13B-V1.2,152,2,0 1,True
+mmlu-astronomy,meta/code-llama-instruct-34b-chat,152,2,0 1,True
+mmlu-astronomy,mistralai/mistral-7b-chat,152,2,0 1,True
+mmlu-business-ethics,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-business-ethics,claude-instant-v1,100,2,0 1,True
+mmlu-business-ethics,claude-v1,100,2,0 1,True
+mmlu-business-ethics,claude-v2,100,2,0 1,True
+mmlu-business-ethics,gpt-4-1106-preview,100,2,0 1,True
+mmlu-business-ethics,meta/llama-2-70b-chat,100,1,0,True
+mmlu-business-ethics,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-business-ethics,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-business-ethics,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-business-ethics,meta/code-llama-instruct-34b-chat,100,2,0 1,True
+mmlu-business-ethics,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-clinical-knowledge,gpt-3.5-turbo-1106,265,2,0 1,True
+mmlu-clinical-knowledge,claude-instant-v1,265,2,0 1,True
+mmlu-clinical-knowledge,claude-v1,265,2,0 1,True
+mmlu-clinical-knowledge,claude-v2,265,2,0 1,True
+mmlu-clinical-knowledge,gpt-4-1106-preview,265,2,0 1,True
+mmlu-clinical-knowledge,meta/llama-2-70b-chat,265,2,0 1,True
+mmlu-clinical-knowledge,mistralai/mixtral-8x7b-chat,265,2,0 1,True
+mmlu-clinical-knowledge,zero-one-ai/Yi-34B-Chat,265,2,0 1,True
+mmlu-clinical-knowledge,WizardLM/WizardLM-13B-V1.2,265,2,0 1,True
+mmlu-clinical-knowledge,meta/code-llama-instruct-34b-chat,265,2,0 1,True
+mmlu-clinical-knowledge,mistralai/mistral-7b-chat,265,2,0 1,True
+mmlu-college-biology,gpt-3.5-turbo-1106,144,2,0 1,True
+mmlu-college-biology,claude-instant-v1,144,2,0 1,True
+mmlu-college-biology,claude-v1,144,2,0 1,True
+mmlu-college-biology,claude-v2,144,2,0 1,True
+mmlu-college-biology,gpt-4-1106-preview,144,2,0 1,True
+mmlu-college-biology,meta/llama-2-70b-chat,144,2,0 1,True
+mmlu-college-biology,mistralai/mixtral-8x7b-chat,144,2,0 1,True
+mmlu-college-biology,zero-one-ai/Yi-34B-Chat,144,2,0 1,True
+mmlu-college-biology,WizardLM/WizardLM-13B-V1.2,144,2,0 1,True
+mmlu-college-biology,meta/code-llama-instruct-34b-chat,144,1,0,True
+mmlu-college-biology,mistralai/mistral-7b-chat,144,2,0 1,True
+mmlu-college-chemistry,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-college-chemistry,claude-instant-v1,100,2,0 1,True
+mmlu-college-chemistry,claude-v1,100,2,0 1,True
+mmlu-college-chemistry,claude-v2,100,2,0 1,True
+mmlu-college-chemistry,gpt-4-1106-preview,100,2,0 1,True
+mmlu-college-chemistry,meta/llama-2-70b-chat,100,2,0 1,True
+mmlu-college-chemistry,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-college-chemistry,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-college-chemistry,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-college-chemistry,meta/code-llama-instruct-34b-chat,100,1,0,True
+mmlu-college-chemistry,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-college-computer-science,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-college-computer-science,claude-instant-v1,100,2,0 1,True
+mmlu-college-computer-science,claude-v1,100,2,0 1,True
+mmlu-college-computer-science,claude-v2,100,2,0 1,True
+mmlu-college-computer-science,gpt-4-1106-preview,100,2,0 1,True
+mmlu-college-computer-science,meta/llama-2-70b-chat,100,2,0 1,True
+mmlu-college-computer-science,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-college-computer-science,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-college-computer-science,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-college-computer-science,meta/code-llama-instruct-34b-chat,100,1,0,True
+mmlu-college-computer-science,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-college-mathematics,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-college-mathematics,claude-instant-v1,100,2,0 1,True
+mmlu-college-mathematics,claude-v1,100,2,0 1,True
+mmlu-college-mathematics,claude-v2,100,2,0 1,True
+mmlu-college-mathematics,gpt-4-1106-preview,100,2,0 1,True
+mmlu-college-mathematics,meta/llama-2-70b-chat,100,1,0,True
+mmlu-college-mathematics,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-college-mathematics,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-college-mathematics,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-college-mathematics,meta/code-llama-instruct-34b-chat,100,1,0,True
+mmlu-college-mathematics,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-college-medicine,gpt-3.5-turbo-1106,173,2,0 1,True
+mmlu-college-medicine,claude-instant-v1,173,2,0 1,True
+mmlu-college-medicine,claude-v1,173,2,0 1,True
+mmlu-college-medicine,claude-v2,173,2,0 1,True
+mmlu-college-medicine,gpt-4-1106-preview,173,2,0 1,True
+mmlu-college-medicine,meta/llama-2-70b-chat,173,2,0 1,True
+mmlu-college-medicine,mistralai/mixtral-8x7b-chat,173,2,0 1,True
+mmlu-college-medicine,zero-one-ai/Yi-34B-Chat,173,2,0 1,True
+mmlu-college-medicine,WizardLM/WizardLM-13B-V1.2,173,2,0 1,True
+mmlu-college-medicine,meta/code-llama-instruct-34b-chat,173,1,0,True
+mmlu-college-medicine,mistralai/mistral-7b-chat,173,2,0 1,True
+mmlu-college-physics,gpt-3.5-turbo-1106,102,2,0 1,True
+mmlu-college-physics,claude-instant-v1,102,2,0 1,True
+mmlu-college-physics,claude-v1,102,2,0 1,True
+mmlu-college-physics,claude-v2,102,2,0 1,True
+mmlu-college-physics,gpt-4-1106-preview,102,2,0 1,True
+mmlu-college-physics,meta/llama-2-70b-chat,102,1,0,True
+mmlu-college-physics,mistralai/mixtral-8x7b-chat,102,2,0 1,True
+mmlu-college-physics,zero-one-ai/Yi-34B-Chat,102,2,0 1,True
+mmlu-college-physics,WizardLM/WizardLM-13B-V1.2,102,2,0 1,True
+mmlu-college-physics,meta/code-llama-instruct-34b-chat,102,2,0 1,True
+mmlu-college-physics,mistralai/mistral-7b-chat,102,2,0 1,True
+mmlu-computer-security,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-computer-security,claude-instant-v1,100,2,0 1,True
+mmlu-computer-security,claude-v1,100,2,0 1,True
+mmlu-computer-security,claude-v2,100,2,0 1,True
+mmlu-computer-security,gpt-4-1106-preview,100,2,0 1,True
+mmlu-computer-security,meta/llama-2-70b-chat,100,2,0 1,True
+mmlu-computer-security,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-computer-security,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-computer-security,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-computer-security,meta/code-llama-instruct-34b-chat,100,2,0 1,True
+mmlu-computer-security,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-conceptual-physics,gpt-3.5-turbo-1106,235,2,0 1,True
+mmlu-conceptual-physics,claude-instant-v1,235,2,0 1,True
+mmlu-conceptual-physics,claude-v1,235,2,0 1,True
+mmlu-conceptual-physics,claude-v2,235,2,0 1,True
+mmlu-conceptual-physics,gpt-4-1106-preview,235,2,0 1,True
+mmlu-conceptual-physics,meta/llama-2-70b-chat,235,2,0 1,True
+mmlu-conceptual-physics,mistralai/mixtral-8x7b-chat,235,2,0 1,True
+mmlu-conceptual-physics,zero-one-ai/Yi-34B-Chat,235,2,0 1,True
+mmlu-conceptual-physics,WizardLM/WizardLM-13B-V1.2,235,2,0 1,True
+mmlu-conceptual-physics,meta/code-llama-instruct-34b-chat,235,2,0 1,True
+mmlu-conceptual-physics,mistralai/mistral-7b-chat,235,2,0 1,True
+mmlu-econometrics,gpt-3.5-turbo-1106,114,2,0 1,True
+mmlu-econometrics,claude-instant-v1,114,2,0 1,True
+mmlu-econometrics,claude-v1,114,2,0 1,True
+mmlu-econometrics,claude-v2,114,2,0 1,True
+mmlu-econometrics,gpt-4-1106-preview,114,2,0 1,True
+mmlu-econometrics,meta/llama-2-70b-chat,114,2,0 1,True
+mmlu-econometrics,mistralai/mixtral-8x7b-chat,114,2,0 1,True
+mmlu-econometrics,zero-one-ai/Yi-34B-Chat,114,2,0 1,True
+mmlu-econometrics,WizardLM/WizardLM-13B-V1.2,114,2,0 1,True
+mmlu-econometrics,meta/code-llama-instruct-34b-chat,114,1,0,True
+mmlu-econometrics,mistralai/mistral-7b-chat,114,2,0 1,True
+mmlu-electrical-engineering,gpt-3.5-turbo-1106,145,2,0 1,True
+mmlu-electrical-engineering,claude-instant-v1,145,2,0 1,True
+mmlu-electrical-engineering,claude-v1,145,2,0 1,True
+mmlu-electrical-engineering,claude-v2,145,2,0 1,True
+mmlu-electrical-engineering,gpt-4-1106-preview,145,2,0 1,True
+mmlu-electrical-engineering,meta/llama-2-70b-chat,145,2,0 1,True
+mmlu-electrical-engineering,mistralai/mixtral-8x7b-chat,145,2,0 1,True
+mmlu-electrical-engineering,zero-one-ai/Yi-34B-Chat,145,2,0 1,True
+mmlu-electrical-engineering,WizardLM/WizardLM-13B-V1.2,145,2,0 1,True
+mmlu-electrical-engineering,meta/code-llama-instruct-34b-chat,145,2,0 1,True
+mmlu-electrical-engineering,mistralai/mistral-7b-chat,145,2,0 1,True
+mmlu-elementary-mathematics,gpt-3.5-turbo-1106,378,2,0 1,True
+mmlu-elementary-mathematics,claude-instant-v1,378,2,0 1,True
+mmlu-elementary-mathematics,claude-v1,378,2,0 1,True
+mmlu-elementary-mathematics,claude-v2,378,2,0 1,True
+mmlu-elementary-mathematics,gpt-4-1106-preview,378,2,0 1,True
+mmlu-elementary-mathematics,meta/llama-2-70b-chat,378,2,0 1,True
+mmlu-elementary-mathematics,mistralai/mixtral-8x7b-chat,378,2,0 1,True
+mmlu-elementary-mathematics,zero-one-ai/Yi-34B-Chat,378,2,0 1,True
+mmlu-elementary-mathematics,WizardLM/WizardLM-13B-V1.2,378,2,0 1,True
+mmlu-elementary-mathematics,meta/code-llama-instruct-34b-chat,378,2,0 1,True
+mmlu-elementary-mathematics,mistralai/mistral-7b-chat,378,2,0 1,True
+mmlu-formal-logic,gpt-3.5-turbo-1106,126,2,0 1,True
+mmlu-formal-logic,claude-instant-v1,126,2,0 1,True
+mmlu-formal-logic,claude-v1,126,2,0 1,True
+mmlu-formal-logic,claude-v2,126,2,0 1,True
+mmlu-formal-logic,gpt-4-1106-preview,126,2,0 1,True
+mmlu-formal-logic,meta/llama-2-70b-chat,126,2,0 1,True
+mmlu-formal-logic,mistralai/mixtral-8x7b-chat,126,2,0 1,True
+mmlu-formal-logic,zero-one-ai/Yi-34B-Chat,126,2,0 1,True
+mmlu-formal-logic,WizardLM/WizardLM-13B-V1.2,126,2,0 1,True
+mmlu-formal-logic,meta/code-llama-instruct-34b-chat,126,1,0,True
+mmlu-formal-logic,mistralai/mistral-7b-chat,126,2,0 1,True
+mmlu-global-facts,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-global-facts,claude-instant-v1,100,2,0 1,True
+mmlu-global-facts,claude-v1,100,2,0 1,True
+mmlu-global-facts,claude-v2,100,2,0 1,True
+mmlu-global-facts,gpt-4-1106-preview,100,2,0 1,True
+mmlu-global-facts,meta/llama-2-70b-chat,100,1,0,True
+mmlu-global-facts,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-global-facts,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-global-facts,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-global-facts,meta/code-llama-instruct-34b-chat,100,1,0,True
+mmlu-global-facts,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-high-school-biology,gpt-3.5-turbo-1106,310,2,0 1,True
+mmlu-high-school-biology,claude-instant-v1,310,2,0 1,True
+mmlu-high-school-biology,claude-v1,310,2,0 1,True
+mmlu-high-school-biology,claude-v2,310,2,0 1,True
+mmlu-high-school-biology,gpt-4-1106-preview,310,2,0 1,True
+mmlu-high-school-biology,meta/llama-2-70b-chat,310,2,0 1,True
+mmlu-high-school-biology,mistralai/mixtral-8x7b-chat,310,2,0 1,True
+mmlu-high-school-biology,zero-one-ai/Yi-34B-Chat,310,2,0 1,True
+mmlu-high-school-biology,WizardLM/WizardLM-13B-V1.2,310,2,0 1,True
+mmlu-high-school-biology,meta/code-llama-instruct-34b-chat,310,2,0 1,True
+mmlu-high-school-biology,mistralai/mistral-7b-chat,310,2,0 1,True
+mmlu-high-school-chemistry,gpt-3.5-turbo-1106,203,2,0 1,True
+mmlu-high-school-chemistry,claude-instant-v1,203,2,0 1,True
+mmlu-high-school-chemistry,claude-v1,203,2,0 1,True
+mmlu-high-school-chemistry,claude-v2,203,2,0 1,True
+mmlu-high-school-chemistry,gpt-4-1106-preview,203,2,0 1,True
+mmlu-high-school-chemistry,meta/llama-2-70b-chat,203,2,0 1,True
+mmlu-high-school-chemistry,mistralai/mixtral-8x7b-chat,203,2,0 1,True
+mmlu-high-school-chemistry,zero-one-ai/Yi-34B-Chat,203,2,0 1,True
+mmlu-high-school-chemistry,WizardLM/WizardLM-13B-V1.2,203,2,0 1,True
+mmlu-high-school-chemistry,meta/code-llama-instruct-34b-chat,203,1,0,True
+mmlu-high-school-chemistry,mistralai/mistral-7b-chat,203,2,0 1,True
+mmlu-high-school-computer-science,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-high-school-computer-science,claude-instant-v1,100,2,0 1,True
+mmlu-high-school-computer-science,claude-v1,100,2,0 1,True
+mmlu-high-school-computer-science,claude-v2,100,2,0 1,True
+mmlu-high-school-computer-science,gpt-4-1106-preview,100,2,0 1,True
+mmlu-high-school-computer-science,meta/llama-2-70b-chat,100,2,0 1,True
+mmlu-high-school-computer-science,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-high-school-computer-science,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-high-school-computer-science,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-high-school-computer-science,meta/code-llama-instruct-34b-chat,100,2,0 1,True
+mmlu-high-school-computer-science,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-high-school-european-history,gpt-3.5-turbo-1106,165,2,0 1,True
+mmlu-high-school-european-history,claude-instant-v1,165,2,0 1,True
+mmlu-high-school-european-history,claude-v1,165,2,0 1,True
+mmlu-high-school-european-history,claude-v2,165,2,0 1,True
+mmlu-high-school-european-history,gpt-4-1106-preview,165,2,0 1,True
+mmlu-high-school-european-history,meta/llama-2-70b-chat,165,2,0 1,True
+mmlu-high-school-european-history,mistralai/mixtral-8x7b-chat,165,2,0 1,True
+mmlu-high-school-european-history,zero-one-ai/Yi-34B-Chat,165,2,0 1,True
+mmlu-high-school-european-history,WizardLM/WizardLM-13B-V1.2,165,2,0 1,True
+mmlu-high-school-european-history,meta/code-llama-instruct-34b-chat,165,2,0 1,True
+mmlu-high-school-european-history,mistralai/mistral-7b-chat,165,2,0 1,True
+mmlu-high-school-geography,gpt-3.5-turbo-1106,198,2,0 1,True
+mmlu-high-school-geography,claude-instant-v1,198,2,0 1,True
+mmlu-high-school-geography,claude-v1,198,2,0 1,True
+mmlu-high-school-geography,claude-v2,198,2,0 1,True
+mmlu-high-school-geography,gpt-4-1106-preview,198,2,0 1,True
+mmlu-high-school-geography,meta/llama-2-70b-chat,198,2,0 1,True
+mmlu-high-school-geography,mistralai/mixtral-8x7b-chat,198,2,0 1,True
+mmlu-high-school-geography,zero-one-ai/Yi-34B-Chat,198,2,0 1,True
+mmlu-high-school-geography,WizardLM/WizardLM-13B-V1.2,198,2,0 1,True
+mmlu-high-school-geography,meta/code-llama-instruct-34b-chat,198,2,0 1,True
+mmlu-high-school-geography,mistralai/mistral-7b-chat,198,2,0 1,True
+mmlu-high-school-government-and-politics,gpt-3.5-turbo-1106,193,2,0 1,True
+mmlu-high-school-government-and-politics,claude-instant-v1,193,2,0 1,True
+mmlu-high-school-government-and-politics,claude-v1,193,2,0 1,True
+mmlu-high-school-government-and-politics,claude-v2,193,2,0 1,True
+mmlu-high-school-government-and-politics,gpt-4-1106-preview,193,2,0 1,True
+mmlu-high-school-government-and-politics,meta/llama-2-70b-chat,193,2,0 1,True
+mmlu-high-school-government-and-politics,mistralai/mixtral-8x7b-chat,193,2,0 1,True
+mmlu-high-school-government-and-politics,zero-one-ai/Yi-34B-Chat,193,2,0 1,True
+mmlu-high-school-government-and-politics,WizardLM/WizardLM-13B-V1.2,193,2,0 1,True
+mmlu-high-school-government-and-politics,meta/code-llama-instruct-34b-chat,193,2,0 1,True
+mmlu-high-school-government-and-politics,mistralai/mistral-7b-chat,193,2,0 1,True
+mmlu-high-school-macroeconomics,gpt-3.5-turbo-1106,390,2,0 1,True
+mmlu-high-school-macroeconomics,claude-instant-v1,390,2,0 1,True
+mmlu-high-school-macroeconomics,claude-v1,390,2,0 1,True
+mmlu-high-school-macroeconomics,claude-v2,390,2,0 1,True
+mmlu-high-school-macroeconomics,gpt-4-1106-preview,390,2,0 1,True
+mmlu-high-school-macroeconomics,meta/llama-2-70b-chat,390,2,0 1,True
+mmlu-high-school-macroeconomics,mistralai/mixtral-8x7b-chat,390,2,0 1,True
+mmlu-high-school-macroeconomics,zero-one-ai/Yi-34B-Chat,390,2,0 1,True
+mmlu-high-school-macroeconomics,WizardLM/WizardLM-13B-V1.2,390,2,0 1,True
+mmlu-high-school-macroeconomics,meta/code-llama-instruct-34b-chat,390,1,0,True
+mmlu-high-school-macroeconomics,mistralai/mistral-7b-chat,390,2,0 1,True
+mmlu-high-school-mathematics,gpt-3.5-turbo-1106,270,2,0 1,True
+mmlu-high-school-mathematics,claude-instant-v1,270,2,0 1,True
+mmlu-high-school-mathematics,claude-v1,270,2,0 1,True
+mmlu-high-school-mathematics,claude-v2,270,2,0 1,True
+mmlu-high-school-mathematics,gpt-4-1106-preview,270,2,0 1,True
+mmlu-high-school-mathematics,meta/llama-2-70b-chat,270,2,0 1,True
+mmlu-high-school-mathematics,mistralai/mixtral-8x7b-chat,270,2,0 1,True
+mmlu-high-school-mathematics,zero-one-ai/Yi-34B-Chat,270,2,0 1,True
+mmlu-high-school-mathematics,WizardLM/WizardLM-13B-V1.2,270,2,0 1,True
+mmlu-high-school-mathematics,meta/code-llama-instruct-34b-chat,270,1,0,True
+mmlu-high-school-mathematics,mistralai/mistral-7b-chat,270,2,0 1,True
+mmlu-high-school-microeconomics,gpt-3.5-turbo-1106,238,2,0 1,True
+mmlu-high-school-microeconomics,claude-instant-v1,238,2,0 1,True
+mmlu-high-school-microeconomics,claude-v1,238,2,0 1,True
+mmlu-high-school-microeconomics,claude-v2,238,2,0 1,True
+mmlu-high-school-microeconomics,gpt-4-1106-preview,238,2,0 1,True
+mmlu-high-school-microeconomics,meta/llama-2-70b-chat,238,2,0 1,True
+mmlu-high-school-microeconomics,mistralai/mixtral-8x7b-chat,238,2,0 1,True
+mmlu-high-school-microeconomics,zero-one-ai/Yi-34B-Chat,238,2,0 1,True
+mmlu-high-school-microeconomics,WizardLM/WizardLM-13B-V1.2,238,2,0 1,True
+mmlu-high-school-microeconomics,meta/code-llama-instruct-34b-chat,238,2,0 1,True
+mmlu-high-school-microeconomics,mistralai/mistral-7b-chat,238,2,0 1,True
+mmlu-high-school-physics,gpt-3.5-turbo-1106,151,2,0 1,True
+mmlu-high-school-physics,claude-instant-v1,151,2,0 1,True
+mmlu-high-school-physics,claude-v1,151,2,0 1,True
+mmlu-high-school-physics,claude-v2,151,2,0 1,True
+mmlu-high-school-physics,gpt-4-1106-preview,151,2,0 1,True
+mmlu-high-school-physics,meta/llama-2-70b-chat,151,1,0,True
+mmlu-high-school-physics,mistralai/mixtral-8x7b-chat,151,2,0 1,True
+mmlu-high-school-physics,zero-one-ai/Yi-34B-Chat,151,2,0 1,True
+mmlu-high-school-physics,WizardLM/WizardLM-13B-V1.2,151,2,0 1,True
+mmlu-high-school-physics,meta/code-llama-instruct-34b-chat,151,2,0 1,True
+mmlu-high-school-physics,mistralai/mistral-7b-chat,151,2,0 1,True
+mmlu-high-school-psychology,gpt-3.5-turbo-1106,545,2,0 1,True
+mmlu-high-school-psychology,claude-instant-v1,545,2,0 1,True
+mmlu-high-school-psychology,claude-v1,545,2,0 1,True
+mmlu-high-school-psychology,claude-v2,545,2,0 1,True
+mmlu-high-school-psychology,gpt-4-1106-preview,545,2,0 1,True
+mmlu-high-school-psychology,meta/llama-2-70b-chat,545,2,0 1,True
+mmlu-high-school-psychology,mistralai/mixtral-8x7b-chat,545,2,0 1,True
+mmlu-high-school-psychology,zero-one-ai/Yi-34B-Chat,545,2,0 1,True
+mmlu-high-school-psychology,WizardLM/WizardLM-13B-V1.2,545,2,0 1,True
+mmlu-high-school-psychology,meta/code-llama-instruct-34b-chat,545,2,0 1,True
+mmlu-high-school-psychology,mistralai/mistral-7b-chat,545,2,0 1,True
+mmlu-high-school-statistics,gpt-3.5-turbo-1106,216,2,0 1,True
+mmlu-high-school-statistics,claude-instant-v1,216,2,0 1,True
+mmlu-high-school-statistics,claude-v1,216,2,0 1,True
+mmlu-high-school-statistics,claude-v2,216,2,0 1,True
+mmlu-high-school-statistics,gpt-4-1106-preview,216,2,0 1,True
+mmlu-high-school-statistics,meta/llama-2-70b-chat,216,2,0 1,True
+mmlu-high-school-statistics,mistralai/mixtral-8x7b-chat,216,2,0 1,True
+mmlu-high-school-statistics,zero-one-ai/Yi-34B-Chat,216,2,0 1,True
+mmlu-high-school-statistics,WizardLM/WizardLM-13B-V1.2,216,2,0 1,True
+mmlu-high-school-statistics,meta/code-llama-instruct-34b-chat,216,2,0 1,True
+mmlu-high-school-statistics,mistralai/mistral-7b-chat,216,2,0 1,True
+mmlu-high-school-us-history,gpt-3.5-turbo-1106,204,2,0 1,True
+mmlu-high-school-us-history,claude-instant-v1,204,2,0 1,True
+mmlu-high-school-us-history,claude-v1,204,2,0 1,True
+mmlu-high-school-us-history,claude-v2,204,2,0 1,True
+mmlu-high-school-us-history,gpt-4-1106-preview,204,2,0 1,True
+mmlu-high-school-us-history,meta/llama-2-70b-chat,204,2,0 1,True
+mmlu-high-school-us-history,mistralai/mixtral-8x7b-chat,204,2,0 1,True
+mmlu-high-school-us-history,zero-one-ai/Yi-34B-Chat,204,2,0 1,True
+mmlu-high-school-us-history,WizardLM/WizardLM-13B-V1.2,204,2,0 1,True
+mmlu-high-school-us-history,meta/code-llama-instruct-34b-chat,204,2,0 1,True
+mmlu-high-school-us-history,mistralai/mistral-7b-chat,204,2,0 1,True
+mmlu-high-school-world-history,gpt-3.5-turbo-1106,237,2,0 1,True
+mmlu-high-school-world-history,claude-instant-v1,237,2,0 1,True
+mmlu-high-school-world-history,claude-v1,237,2,0 1,True
+mmlu-high-school-world-history,claude-v2,237,2,0 1,True
+mmlu-high-school-world-history,gpt-4-1106-preview,237,2,0 1,True
+mmlu-high-school-world-history,meta/llama-2-70b-chat,237,2,0 1,True
+mmlu-high-school-world-history,mistralai/mixtral-8x7b-chat,237,2,0 1,True
+mmlu-high-school-world-history,zero-one-ai/Yi-34B-Chat,237,2,0 1,True
+mmlu-high-school-world-history,WizardLM/WizardLM-13B-V1.2,237,2,0 1,True
+mmlu-high-school-world-history,meta/code-llama-instruct-34b-chat,237,2,0 1,True
+mmlu-high-school-world-history,mistralai/mistral-7b-chat,237,2,0 1,True
+mmlu-human-aging,gpt-3.5-turbo-1106,223,2,0 1,True
+mmlu-human-aging,claude-instant-v1,223,2,0 1,True
+mmlu-human-aging,claude-v1,223,2,0 1,True
+mmlu-human-aging,claude-v2,223,2,0 1,True
+mmlu-human-aging,gpt-4-1106-preview,223,2,0 1,True
+mmlu-human-aging,meta/llama-2-70b-chat,223,2,0 1,True
+mmlu-human-aging,mistralai/mixtral-8x7b-chat,223,2,0 1,True
+mmlu-human-aging,zero-one-ai/Yi-34B-Chat,223,2,0 1,True
+mmlu-human-aging,WizardLM/WizardLM-13B-V1.2,223,2,0 1,True
+mmlu-human-aging,meta/code-llama-instruct-34b-chat,223,2,0 1,True
+mmlu-human-aging,mistralai/mistral-7b-chat,223,2,0 1,True
+mmlu-human-sexuality,gpt-3.5-turbo-1106,131,2,0 1,True
+mmlu-human-sexuality,claude-instant-v1,131,2,0 1,True
+mmlu-human-sexuality,claude-v1,131,2,0 1,True
+mmlu-human-sexuality,claude-v2,131,2,0 1,True
+mmlu-human-sexuality,gpt-4-1106-preview,131,2,0 1,True
+mmlu-human-sexuality,meta/llama-2-70b-chat,131,2,0 1,True
+mmlu-human-sexuality,mistralai/mixtral-8x7b-chat,131,2,0 1,True
+mmlu-human-sexuality,zero-one-ai/Yi-34B-Chat,131,2,0 1,True
+mmlu-human-sexuality,WizardLM/WizardLM-13B-V1.2,131,2,0 1,True
+mmlu-human-sexuality,meta/code-llama-instruct-34b-chat,131,2,0 1,True
+mmlu-human-sexuality,mistralai/mistral-7b-chat,131,2,0 1,True
+mmlu-international-law,gpt-3.5-turbo-1106,121,2,0 1,True
+mmlu-international-law,claude-instant-v1,121,2,0 1,True
+mmlu-international-law,claude-v1,121,2,0 1,True
+mmlu-international-law,claude-v2,121,2,0 1,True
+mmlu-international-law,gpt-4-1106-preview,121,2,0 1,True
+mmlu-international-law,meta/llama-2-70b-chat,121,2,0 1,True
+mmlu-international-law,mistralai/mixtral-8x7b-chat,121,2,0 1,True
+mmlu-international-law,zero-one-ai/Yi-34B-Chat,121,2,0 1,True
+mmlu-international-law,WizardLM/WizardLM-13B-V1.2,121,2,0 1,True
+mmlu-international-law,meta/code-llama-instruct-34b-chat,121,1,0,True
+mmlu-international-law,mistralai/mistral-7b-chat,121,2,0 1,True
+mmlu-jurisprudence,gpt-3.5-turbo-1106,108,2,0 1,True
+mmlu-jurisprudence,claude-instant-v1,108,2,0 1,True
+mmlu-jurisprudence,claude-v1,108,2,0 1,True
+mmlu-jurisprudence,claude-v2,108,2,0 1,True
+mmlu-jurisprudence,gpt-4-1106-preview,108,2,0 1,True
+mmlu-jurisprudence,meta/llama-2-70b-chat,108,1,0,True
+mmlu-jurisprudence,mistralai/mixtral-8x7b-chat,108,2,0 1,True
+mmlu-jurisprudence,zero-one-ai/Yi-34B-Chat,108,2,0 1,True
+mmlu-jurisprudence,WizardLM/WizardLM-13B-V1.2,108,2,0 1,True
+mmlu-jurisprudence,meta/code-llama-instruct-34b-chat,108,1,0,True
+mmlu-jurisprudence,mistralai/mistral-7b-chat,108,2,0 1,True
+mmlu-logical-fallacies,gpt-3.5-turbo-1106,163,2,0 1,True
+mmlu-logical-fallacies,claude-instant-v1,163,2,0 1,True
+mmlu-logical-fallacies,claude-v1,163,2,0 1,True
+mmlu-logical-fallacies,claude-v2,163,2,0 1,True
+mmlu-logical-fallacies,gpt-4-1106-preview,163,2,0 1,True
+mmlu-logical-fallacies,meta/llama-2-70b-chat,163,2,0 1,True
+mmlu-logical-fallacies,mistralai/mixtral-8x7b-chat,163,2,0 1,True
+mmlu-logical-fallacies,zero-one-ai/Yi-34B-Chat,163,2,0 1,True
+mmlu-logical-fallacies,WizardLM/WizardLM-13B-V1.2,163,2,0 1,True
+mmlu-logical-fallacies,meta/code-llama-instruct-34b-chat,163,1,0,True
+mmlu-logical-fallacies,mistralai/mistral-7b-chat,163,2,0 1,True
+mmlu-machine-learning,gpt-3.5-turbo-1106,112,2,0 1,True
+mmlu-machine-learning,claude-instant-v1,112,2,0 1,True
+mmlu-machine-learning,claude-v1,112,2,0 1,True
+mmlu-machine-learning,claude-v2,112,2,0 1,True
+mmlu-machine-learning,gpt-4-1106-preview,112,2,0 1,True
+mmlu-machine-learning,meta/llama-2-70b-chat,112,2,0 1,True
+mmlu-machine-learning,mistralai/mixtral-8x7b-chat,112,2,0 1,True
+mmlu-machine-learning,zero-one-ai/Yi-34B-Chat,112,2,0 1,True
+mmlu-machine-learning,WizardLM/WizardLM-13B-V1.2,112,2,0 1,True
+mmlu-machine-learning,meta/code-llama-instruct-34b-chat,112,2,0 1,True
+mmlu-machine-learning,mistralai/mistral-7b-chat,112,2,0 1,True
+mmlu-management,gpt-3.5-turbo-1106,103,2,0 1,True
+mmlu-management,claude-instant-v1,103,2,0 1,True
+mmlu-management,claude-v1,103,2,0 1,True
+mmlu-management,claude-v2,103,2,0 1,True
+mmlu-management,gpt-4-1106-preview,103,2,0 1,True
+mmlu-management,meta/llama-2-70b-chat,103,2,0 1,True
+mmlu-management,mistralai/mixtral-8x7b-chat,103,2,0 1,True
+mmlu-management,zero-one-ai/Yi-34B-Chat,103,2,0 1,True
+mmlu-management,WizardLM/WizardLM-13B-V1.2,103,2,0 1,True
+mmlu-management,meta/code-llama-instruct-34b-chat,103,1,0,True
+mmlu-management,mistralai/mistral-7b-chat,103,2,0 1,True
+mmlu-marketing,gpt-3.5-turbo-1106,234,2,0 1,True
+mmlu-marketing,claude-instant-v1,234,2,0 1,True
+mmlu-marketing,claude-v1,234,2,0 1,True
+mmlu-marketing,claude-v2,234,2,0 1,True
+mmlu-marketing,gpt-4-1106-preview,234,2,0 1,True
+mmlu-marketing,meta/llama-2-70b-chat,234,1,0,True
+mmlu-marketing,mistralai/mixtral-8x7b-chat,234,2,0 1,True
+mmlu-marketing,zero-one-ai/Yi-34B-Chat,234,2,0 1,True
+mmlu-marketing,WizardLM/WizardLM-13B-V1.2,234,2,0 1,True
+mmlu-marketing,meta/code-llama-instruct-34b-chat,234,1,0,True
+mmlu-marketing,mistralai/mistral-7b-chat,234,2,0 1,True
+mmlu-medical-genetics,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-medical-genetics,claude-instant-v1,100,2,0 1,True
+mmlu-medical-genetics,claude-v1,100,2,0 1,True
+mmlu-medical-genetics,claude-v2,100,2,0 1,True
+mmlu-medical-genetics,gpt-4-1106-preview,100,2,0 1,True
+mmlu-medical-genetics,meta/llama-2-70b-chat,100,2,0 1,True
+mmlu-medical-genetics,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-medical-genetics,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-medical-genetics,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-medical-genetics,meta/code-llama-instruct-34b-chat,100,1,0,True
+mmlu-medical-genetics,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-miscellaneous,gpt-3.5-turbo-1106,783,2,0 1,True
+mmlu-miscellaneous,claude-instant-v1,783,2,0 1,True
+mmlu-miscellaneous,claude-v1,783,2,0 1,True
+mmlu-miscellaneous,claude-v2,783,2,0 1,True
+mmlu-miscellaneous,gpt-4-1106-preview,783,2,0 1,True
+mmlu-miscellaneous,meta/llama-2-70b-chat,783,2,0 1,True
+mmlu-miscellaneous,mistralai/mixtral-8x7b-chat,783,2,0 1,True
+mmlu-miscellaneous,zero-one-ai/Yi-34B-Chat,783,2,0 1,True
+mmlu-miscellaneous,WizardLM/WizardLM-13B-V1.2,783,2,0 1,True
+mmlu-miscellaneous,meta/code-llama-instruct-34b-chat,783,2,0 1,True
+mmlu-miscellaneous,mistralai/mistral-7b-chat,783,2,0 1,True
+mmlu-moral-disputes,gpt-3.5-turbo-1106,346,2,0 1,True
+mmlu-moral-disputes,claude-instant-v1,346,2,0 1,True
+mmlu-moral-disputes,claude-v1,346,2,0 1,True
+mmlu-moral-disputes,claude-v2,346,2,0 1,True
+mmlu-moral-disputes,gpt-4-1106-preview,346,2,0 1,True
+mmlu-moral-disputes,meta/llama-2-70b-chat,346,2,0 1,True
+mmlu-moral-disputes,mistralai/mixtral-8x7b-chat,346,2,0 1,True
+mmlu-moral-disputes,zero-one-ai/Yi-34B-Chat,346,2,0 1,True
+mmlu-moral-disputes,WizardLM/WizardLM-13B-V1.2,346,2,0 1,True
+mmlu-moral-disputes,meta/code-llama-instruct-34b-chat,346,1,0,True
+mmlu-moral-disputes,mistralai/mistral-7b-chat,346,2,0 1,True
+mmlu-moral-scenarios,gpt-3.5-turbo-1106,895,2,0 1,True
+mmlu-moral-scenarios,claude-instant-v1,895,2,0 1,True
+mmlu-moral-scenarios,claude-v1,895,2,0 1,True
+mmlu-moral-scenarios,claude-v2,895,2,0 1,True
+mmlu-moral-scenarios,gpt-4-1106-preview,895,2,0 1,True
+mmlu-moral-scenarios,meta/llama-2-70b-chat,895,1,0,True
+mmlu-moral-scenarios,mistralai/mixtral-8x7b-chat,895,2,0 1,True
+mmlu-moral-scenarios,zero-one-ai/Yi-34B-Chat,895,2,0 1,True
+mmlu-moral-scenarios,WizardLM/WizardLM-13B-V1.2,895,2,0 1,True
+mmlu-moral-scenarios,meta/code-llama-instruct-34b-chat,895,1,0,True
+mmlu-moral-scenarios,mistralai/mistral-7b-chat,895,1,0,True
+mmlu-nutrition,gpt-3.5-turbo-1106,306,2,0 1,True
+mmlu-nutrition,claude-instant-v1,306,2,0 1,True
+mmlu-nutrition,claude-v1,306,2,0 1,True
+mmlu-nutrition,claude-v2,306,2,0 1,True
+mmlu-nutrition,gpt-4-1106-preview,306,2,0 1,True
+mmlu-nutrition,meta/llama-2-70b-chat,306,2,0 1,True
+mmlu-nutrition,mistralai/mixtral-8x7b-chat,306,2,0 1,True
+mmlu-nutrition,zero-one-ai/Yi-34B-Chat,306,2,0 1,True
+mmlu-nutrition,WizardLM/WizardLM-13B-V1.2,306,2,0 1,True
+mmlu-nutrition,meta/code-llama-instruct-34b-chat,306,1,0,True
+mmlu-nutrition,mistralai/mistral-7b-chat,306,2,0 1,True
+mmlu-philosophy,gpt-3.5-turbo-1106,311,2,0 1,True
+mmlu-philosophy,claude-instant-v1,311,2,0 1,True
+mmlu-philosophy,claude-v1,311,2,0 1,True
+mmlu-philosophy,claude-v2,311,2,0 1,True
+mmlu-philosophy,gpt-4-1106-preview,311,2,0 1,True
+mmlu-philosophy,meta/llama-2-70b-chat,311,2,0 1,True
+mmlu-philosophy,mistralai/mixtral-8x7b-chat,311,2,0 1,True
+mmlu-philosophy,zero-one-ai/Yi-34B-Chat,311,2,0 1,True
+mmlu-philosophy,WizardLM/WizardLM-13B-V1.2,311,2,0 1,True
+mmlu-philosophy,meta/code-llama-instruct-34b-chat,311,2,0 1,True
+mmlu-philosophy,mistralai/mistral-7b-chat,311,2,0 1,True
+mmlu-prehistory,gpt-3.5-turbo-1106,324,2,0 1,True
+mmlu-prehistory,claude-instant-v1,324,2,0 1,True
+mmlu-prehistory,claude-v1,324,2,0 1,True
+mmlu-prehistory,claude-v2,324,2,0 1,True
+mmlu-prehistory,gpt-4-1106-preview,324,2,0 1,True
+mmlu-prehistory,meta/llama-2-70b-chat,324,2,0 1,True
+mmlu-prehistory,mistralai/mixtral-8x7b-chat,324,2,0 1,True
+mmlu-prehistory,zero-one-ai/Yi-34B-Chat,324,2,0 1,True
+mmlu-prehistory,WizardLM/WizardLM-13B-V1.2,324,2,0 1,True
+mmlu-prehistory,meta/code-llama-instruct-34b-chat,324,2,0 1,True
+mmlu-prehistory,mistralai/mistral-7b-chat,324,2,0 1,True
+mmlu-professional-accounting,gpt-3.5-turbo-1106,282,2,0 1,True
+mmlu-professional-accounting,claude-instant-v1,282,2,0 1,True
+mmlu-professional-accounting,claude-v1,282,2,0 1,True
+mmlu-professional-accounting,claude-v2,282,2,0 1,True
+mmlu-professional-accounting,gpt-4-1106-preview,282,2,0 1,True
+mmlu-professional-accounting,meta/llama-2-70b-chat,282,1,0,True
+mmlu-professional-accounting,mistralai/mixtral-8x7b-chat,282,2,0 1,True
+mmlu-professional-accounting,zero-one-ai/Yi-34B-Chat,282,2,0 1,True
+mmlu-professional-accounting,WizardLM/WizardLM-13B-V1.2,282,2,0 1,True
+mmlu-professional-accounting,meta/code-llama-instruct-34b-chat,282,1,0,True
+mmlu-professional-accounting,mistralai/mistral-7b-chat,282,2,0 1,True
+mmlu-professional-law,gpt-3.5-turbo-1106,1534,2,0 1,True
+mmlu-professional-law,claude-instant-v1,1534,2,0 1,True
+mmlu-professional-law,claude-v1,1534,2,0 1,True
+mmlu-professional-law,claude-v2,1534,2,0 1,True
+mmlu-professional-law,gpt-4-1106-preview,1534,2,0 1,True
+mmlu-professional-law,meta/llama-2-70b-chat,1534,1,0,True
+mmlu-professional-law,mistralai/mixtral-8x7b-chat,1534,2,0 1,True
+mmlu-professional-law,zero-one-ai/Yi-34B-Chat,1534,2,0 1,True
+mmlu-professional-law,WizardLM/WizardLM-13B-V1.2,1534,2,0 1,True
+mmlu-professional-law,meta/code-llama-instruct-34b-chat,1534,2,0 1,True
+mmlu-professional-law,mistralai/mistral-7b-chat,1534,2,0 1,True
+mmlu-professional-medicine,gpt-3.5-turbo-1106,272,2,0 1,True
+mmlu-professional-medicine,claude-instant-v1,272,2,0 1,True
+mmlu-professional-medicine,claude-v1,272,2,0 1,True
+mmlu-professional-medicine,claude-v2,272,2,0 1,True
+mmlu-professional-medicine,gpt-4-1106-preview,272,2,0 1,True
+mmlu-professional-medicine,meta/llama-2-70b-chat,272,1,0,True
+mmlu-professional-medicine,mistralai/mixtral-8x7b-chat,272,2,0 1,True
+mmlu-professional-medicine,zero-one-ai/Yi-34B-Chat,272,2,0 1,True
+mmlu-professional-medicine,WizardLM/WizardLM-13B-V1.2,272,2,0 1,True
+mmlu-professional-medicine,meta/code-llama-instruct-34b-chat,272,2,0 1,True
+mmlu-professional-medicine,mistralai/mistral-7b-chat,272,2,0 1,True
+mmlu-professional-psychology,gpt-3.5-turbo-1106,612,2,0 1,True
+mmlu-professional-psychology,claude-instant-v1,612,2,0 1,True
+mmlu-professional-psychology,claude-v1,612,2,0 1,True
+mmlu-professional-psychology,claude-v2,612,2,0 1,True
+mmlu-professional-psychology,gpt-4-1106-preview,612,2,0 1,True
+mmlu-professional-psychology,meta/llama-2-70b-chat,612,2,0 1,True
+mmlu-professional-psychology,mistralai/mixtral-8x7b-chat,612,2,0 1,True
+mmlu-professional-psychology,zero-one-ai/Yi-34B-Chat,612,2,0 1,True
+mmlu-professional-psychology,WizardLM/WizardLM-13B-V1.2,612,2,0 1,True
+mmlu-professional-psychology,meta/code-llama-instruct-34b-chat,612,2,0 1,True
+mmlu-professional-psychology,mistralai/mistral-7b-chat,612,2,0 1,True
+mmlu-public-relations,gpt-3.5-turbo-1106,110,2,0 1,True
+mmlu-public-relations,claude-instant-v1,110,2,0 1,True
+mmlu-public-relations,claude-v1,110,2,0 1,True
+mmlu-public-relations,claude-v2,110,2,0 1,True
+mmlu-public-relations,gpt-4-1106-preview,110,2,0 1,True
+mmlu-public-relations,meta/llama-2-70b-chat,110,2,0 1,True
+mmlu-public-relations,mistralai/mixtral-8x7b-chat,110,2,0 1,True
+mmlu-public-relations,zero-one-ai/Yi-34B-Chat,110,2,0 1,True
+mmlu-public-relations,WizardLM/WizardLM-13B-V1.2,110,2,0 1,True
+mmlu-public-relations,meta/code-llama-instruct-34b-chat,110,1,0,True
+mmlu-public-relations,mistralai/mistral-7b-chat,110,2,0 1,True
+mmlu-security-studies,gpt-3.5-turbo-1106,245,2,0 1,True
+mmlu-security-studies,claude-instant-v1,245,2,0 1,True
+mmlu-security-studies,claude-v1,245,2,0 1,True
+mmlu-security-studies,claude-v2,245,2,0 1,True
+mmlu-security-studies,gpt-4-1106-preview,245,2,0 1,True
+mmlu-security-studies,meta/llama-2-70b-chat,245,2,0 1,True
+mmlu-security-studies,mistralai/mixtral-8x7b-chat,245,2,0 1,True
+mmlu-security-studies,zero-one-ai/Yi-34B-Chat,245,2,0 1,True
+mmlu-security-studies,WizardLM/WizardLM-13B-V1.2,245,2,0 1,True
+mmlu-security-studies,meta/code-llama-instruct-34b-chat,245,1,0,True
+mmlu-security-studies,mistralai/mistral-7b-chat,245,2,0 1,True
+mmlu-sociology,gpt-3.5-turbo-1106,201,2,0 1,True
+mmlu-sociology,claude-instant-v1,201,2,0 1,True
+mmlu-sociology,claude-v1,201,2,0 1,True
+mmlu-sociology,claude-v2,201,2,0 1,True
+mmlu-sociology,gpt-4-1106-preview,201,2,0 1,True
+mmlu-sociology,meta/llama-2-70b-chat,201,2,0 1,True
+mmlu-sociology,mistralai/mixtral-8x7b-chat,201,2,0 1,True
+mmlu-sociology,zero-one-ai/Yi-34B-Chat,201,2,0 1,True
+mmlu-sociology,WizardLM/WizardLM-13B-V1.2,201,2,0 1,True
+mmlu-sociology,meta/code-llama-instruct-34b-chat,201,1,0,True
+mmlu-sociology,mistralai/mistral-7b-chat,201,2,0 1,True
+mmlu-us-foreign-policy,gpt-3.5-turbo-1106,100,2,0 1,True
+mmlu-us-foreign-policy,claude-instant-v1,100,2,0 1,True
+mmlu-us-foreign-policy,claude-v1,100,2,0 1,True
+mmlu-us-foreign-policy,claude-v2,100,2,0 1,True
+mmlu-us-foreign-policy,gpt-4-1106-preview,100,2,0 1,True
+mmlu-us-foreign-policy,meta/llama-2-70b-chat,100,2,0 1,True
+mmlu-us-foreign-policy,mistralai/mixtral-8x7b-chat,100,2,0 1,True
+mmlu-us-foreign-policy,zero-one-ai/Yi-34B-Chat,100,2,0 1,True
+mmlu-us-foreign-policy,WizardLM/WizardLM-13B-V1.2,100,2,0 1,True
+mmlu-us-foreign-policy,meta/code-llama-instruct-34b-chat,100,2,0 1,True
+mmlu-us-foreign-policy,mistralai/mistral-7b-chat,100,2,0 1,True
+mmlu-virology,gpt-3.5-turbo-1106,166,2,0 1,True
+mmlu-virology,claude-instant-v1,166,2,0 1,True
+mmlu-virology,claude-v1,166,2,0 1,True
+mmlu-virology,claude-v2,166,2,0 1,True
+mmlu-virology,gpt-4-1106-preview,166,2,0 1,True
+mmlu-virology,meta/llama-2-70b-chat,166,2,0 1,True
+mmlu-virology,mistralai/mixtral-8x7b-chat,166,2,0 1,True
+mmlu-virology,zero-one-ai/Yi-34B-Chat,166,2,0 1,True
+mmlu-virology,WizardLM/WizardLM-13B-V1.2,166,2,0 1,True
+mmlu-virology,meta/code-llama-instruct-34b-chat,166,1,0,True
+mmlu-virology,mistralai/mistral-7b-chat,166,2,0 1,True
+mmlu-world-religions,gpt-3.5-turbo-1106,171,2,0 1,True
+mmlu-world-religions,claude-instant-v1,171,2,0 1,True
+mmlu-world-religions,claude-v1,171,2,0 1,True
+mmlu-world-religions,claude-v2,171,2,0 1,True
+mmlu-world-religions,gpt-4-1106-preview,171,2,0 1,True
+mmlu-world-religions,meta/llama-2-70b-chat,171,2,0 1,True
+mmlu-world-religions,mistralai/mixtral-8x7b-chat,171,2,0 1,True
+mmlu-world-religions,zero-one-ai/Yi-34B-Chat,171,2,0 1,True
+mmlu-world-religions,WizardLM/WizardLM-13B-V1.2,171,2,0 1,True
+mmlu-world-religions,meta/code-llama-instruct-34b-chat,171,1,0,True
+mmlu-world-religions,mistralai/mistral-7b-chat,171,2,0 1,True
+mtbench,gpt-3.5-turbo-1106,41,7,0.1 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench,claude-instant-v1,41,7,0.3 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench,claude-v1,41,8,0.2 0.3 0.4 0.6 0.7 0.8 0.9 1,False
+mtbench,claude-v2,41,8,0.2 0.3 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench,gpt-4-1106-preview,41,5,0.4 0.5 0.7 0.9 1,False
+mtbench,meta/llama-2-70b-chat,41,9,0.1 0.2 0.3 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench,mistralai/mixtral-8x7b-chat,41,6,0.3 0.5 0.7 0.8 0.9 1,False
+mtbench,zero-one-ai/Yi-34B-Chat,41,6,0.3 0.4 0.5 0.7 0.9 1,False
+mtbench,WizardLM/WizardLM-13B-V1.2,41,8,0.2 0.3 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench,meta/code-llama-instruct-34b-chat,41,8,0.2 0.3 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench,mistralai/mistral-7b-chat,41,10,0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1,False
+mtbench-math,gpt-3.5-turbo-1106,20,5,0.1 0.2 0.3 0.5 1,False
+mtbench-math,claude-instant-v1,20,6,0.1 0.2 0.3 0.4 0.8 1,False
+mtbench-math,claude-v1,20,4,0.1 0.2 0.4 1,False
+mtbench-math,claude-v2,20,4,0.1 0.2 0.3 1,False
+mtbench-math,gpt-4-1106-preview,20,3,0.1 0.3 1,False
+mtbench-math,meta/llama-2-70b-chat,20,5,0.1 0.3 0.4 0.5 1,False
+mtbench-math,mistralai/mixtral-8x7b-chat,20,4,0.1 0.3 0.4 1,False
+mtbench-math,zero-one-ai/Yi-34B-Chat,20,5,0.1 0.2 0.4 0.5 1,False
+mtbench-math,WizardLM/WizardLM-13B-V1.2,20,5,0.1 0.2 0.3 0.7 1,False
+mtbench-math,meta/code-llama-instruct-34b-chat,20,4,0.1 0.7 0.8 1,False
+mtbench-math,mistralai/mistral-7b-chat,20,7,0.1 0.2 0.3 0.4 0.8 0.9 1,False
+mtbench-reference,gpt-3.5-turbo-1106,19,7,0.1 0.2 0.3 0.4 0.7 0.8 1,False
+mtbench-reference,claude-instant-v1,19,7,0.1 0.2 0.3 0.4 0.7 0.9 1,False
+mtbench-reference,claude-v1,19,7,0.1 0.2 0.4 0.5 0.6 0.9 1,False
+mtbench-reference,claude-v2,19,8,0.1 0.2 0.4 0.5 0.7 0.8 0.9 1,False
+mtbench-reference,gpt-4-1106-preview,19,6,0.1 0.2 0.5 0.8 0.9 1,False
+mtbench-reference,meta/llama-2-70b-chat,19,8,0.1 0.2 0.3 0.4 0.5 0.7 0.8 0.9,False
+mtbench-reference,mistralai/mixtral-8x7b-chat,19,8,0.1 0.2 0.3 0.5 0.7 0.8 0.9 1,False
+mtbench-reference,zero-one-ai/Yi-34B-Chat,19,6,0.1 0.2 0.4 0.5 0.7 0.9,False
+mtbench-reference,WizardLM/WizardLM-13B-V1.2,19,5,0.1 0.2 0.3 0.8 0.9,False
+mtbench-reference,meta/code-llama-instruct-34b-chat,19,7,0.1 0.2 0.3 0.4 0.7 0.8 1,False
+mtbench-reference,mistralai/mistral-7b-chat,19,4,0.1 0.2 0.3 1,False
+test-match,gpt-3.5-turbo-1106,3,2,0 1,True
+test-match,claude-instant-v1,3,2,0 1,True
+test-match,claude-v1,3,2,0 1,True
+test-match,claude-v2,3,2,0 1,True
+test-match,gpt-4-1106-preview,3,2,0 1,True
+test-match,meta/llama-2-70b-chat,3,1,0,True
+test-match,mistralai/mixtral-8x7b-chat,3,2,0 1,True
+test-match,zero-one-ai/Yi-34B-Chat,3,2,0 1,True
+test-match,WizardLM/WizardLM-13B-V1.2,3,1,0,True
+test-match,meta/code-llama-instruct-34b-chat,3,1,0,True
+test-match,mistralai/mistral-7b-chat,3,2,0 1,True
+winogrande,gpt-3.5-turbo-1106,1267,2,0 1,True
+winogrande,claude-instant-v1,1267,2,0 1,True
+winogrande,claude-v1,1267,2,0 1,True
+winogrande,claude-v2,1267,2,0 1,True
+winogrande,gpt-4-1106-preview,1267,2,0 1,True
+winogrande,meta/llama-2-70b-chat,1267,2,0 1,True
+winogrande,mistralai/mixtral-8x7b-chat,1267,2,0 1,True
+winogrande,zero-one-ai/Yi-34B-Chat,1267,2,0 1,True
+winogrande,WizardLM/WizardLM-13B-V1.2,1267,2,0 1,True
+winogrande,meta/code-llama-instruct-34b-chat,1267,2,0 1,True
+winogrande,mistralai/mistral-7b-chat,1267,2,0 1,True

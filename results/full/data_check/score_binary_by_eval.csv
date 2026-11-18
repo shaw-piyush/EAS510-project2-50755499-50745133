@@ -1,0 +1,87 @@
+eval_name,candidate_group,n_rows,all_models_binary,n_models_nonbinary,distinct_values_all_models,n_scores_pooled,share_scores_not_0_or_1,pooled_value_counts
+Chinese_character_riddles,chinese,100,True,0,0 1,1100,0.0,0:1053 1:47
+abstract2title,abstract2title,254,True,0,0 1,2794,0.0,0:10 1:2784
+accounting_audit,accounting_audit,30,True,0,0 1,330,0.0,0:196 1:134
+arc-challenge,arc-challenge,1470,True,0,0 1,16170,0.0,0:4217 1:11953
+bias_detection,bias_detection,285,True,0,0 1,3135,0.0,0:2418 1:717
+chinese-lantern-riddles,chinese,20,True,0,0 1,220,0.0,0:209 1:11
+chinese-remainder-theorem,chinese,15,True,0,0 1,165,0.0,0:162 1:3
+chinese_ancient_masterpieces_dynasty,chinese,16,True,0,0 1,176,0.0,0:148 1:28
+chinese_ancient_poetry,chinese,25,True,0,0 1,275,0.0,0:269 1:6
+chinese_chu_ci,chinese,15,True,0,0 1,165,0.0,0:158 1:7
+chinese_famous_novel,chinese,20,True,0,0 1,220,0.0,0:200 1:20
+chinese_hard_translations,chinese,21,True,0,0 1,231,0.0,0:192 1:39
+chinese_homonym,chinese,21,True,0,0 1,231,0.0,0:156 1:75
+chinese_idioms,chinese,15,False,11,0 0.25 0.75 1,165,0.6909090909090909,0:34 0.25:98 0.75:16 1:17
+chinese_modern_poem_identification,chinese,21,True,0,0 1,231,0.0,0:216 1:15
+chinese_poem,chinese,15,True,0,0 1,165,0.0,0:158 1:7
+chinese_shi_jing,chinese,34,True,0,0 1,374,0.0,0:354 1:20
+chinese_song_ci,chinese,16,True,0,0 1,176,0.0,0:155 1:21
+chinese_tang_poetries,chinese,37,True,0,0 1,407,0.0,0:359 1:48
+chinese_zodiac,chinese,394,True,0,0 1,4334,0.0,0:3368 1:966
+consensus_summary,consensus_summary,362,False,11,0 0.25 0.5 0.75 1,3982,0.7172275238573581,0:438 0.25:352 0.5:409 0.75:2095 1:688
+grade-school-math,grade-school-math,7450,False,11,0 0.25 0.5 0.75 1,81950,0.9924710189139719,0:331 0.25:24171 0.5:12972 0.75:44190 1:286
+hellaswag,hellaswag,10042,True,0,0 1,110462,0.0,0:53360 1:57102
+mbpp,mbpp,427,True,0,0 1,4697,0.0,0:2275 1:2422
+mmlu-abstract-algebra,mmlu,100,True,0,0 1,1100,0.0,0:836 1:264
+mmlu-anatomy,mmlu,135,True,0,0 1,1485,0.0,0:749 1:736
+mmlu-astronomy,mmlu,152,True,0,0 1,1672,0.0,0:742 1:930
+mmlu-business-ethics,mmlu,100,True,0,0 1,1100,0.0,0:503 1:597
+mmlu-clinical-knowledge,mmlu,265,True,0,0 1,2915,0.0,0:1312 1:1603
+mmlu-college-biology,mmlu,144,True,0,0 1,1584,0.0,0:684 1:900
+mmlu-college-chemistry,mmlu,100,True,0,0 1,1100,0.0,0:718 1:382
+mmlu-college-computer-science,mmlu,100,True,0,0 1,1100,0.0,0:662 1:438
+mmlu-college-mathematics,mmlu,100,True,0,0 1,1100,0.0,0:810 1:290
+mmlu-college-medicine,mmlu,173,True,0,0 1,1903,0.0,0:973 1:930
+mmlu-college-physics,mmlu,102,True,0,0 1,1122,0.0,0:759 1:363
+mmlu-computer-security,mmlu,100,True,0,0 1,1100,0.0,0:500 1:600
+mmlu-conceptual-physics,mmlu,235,True,0,0 1,2585,0.0,0:1455 1:1130
+mmlu-econometrics,mmlu,114,True,0,0 1,1254,0.0,0:778 1:476
+mmlu-electrical-engineering,mmlu,145,True,0,0 1,1595,0.0,0:902 1:693
+mmlu-elementary-mathematics,mmlu,378,True,0,0 1,4158,0.0,0:2692 1:1466
+mmlu-formal-logic,mmlu,126,True,0,0 1,1386,0.0,0:897 1:489
+mmlu-global-facts,mmlu,100,True,0,0 1,1100,0.0,0:738 1:362
+mmlu-high-school-biology,mmlu,310,True,0,0 1,3410,0.0,0:1427 1:1983
+mmlu-high-school-chemistry,mmlu,203,True,0,0 1,2233,0.0,0:1363 1:870
+mmlu-high-school-computer-science,mmlu,100,True,0,0 1,1100,0.0,0:496 1:604
+mmlu-high-school-european-history,mmlu,165,True,0,0 1,1815,0.0,0:757 1:1058
+mmlu-high-school-geography,mmlu,198,True,0,0 1,2178,0.0,0:895 1:1283
+mmlu-high-school-government-and-politics,mmlu,193,True,0,0 1,2123,0.0,0:737 1:1386
+mmlu-high-school-macroeconomics,mmlu,390,True,0,0 1,4290,0.0,0:2174 1:2116
+mmlu-high-school-mathematics,mmlu,270,True,0,0 1,2970,0.0,0:2264 1:706
+mmlu-high-school-microeconomics,mmlu,238,True,0,0 1,2618,0.0,0:1116 1:1502
+mmlu-high-school-physics,mmlu,151,True,0,0 1,1661,0.0,0:1153 1:508
+mmlu-high-school-psychology,mmlu,545,True,0,0 1,5995,0.0,0:2175 1:3820
+mmlu-high-school-statistics,mmlu,216,True,0,0 1,2376,0.0,0:1416 1:960
+mmlu-high-school-us-history,mmlu,204,True,0,0 1,2244,0.0,0:854 1:1390
+mmlu-high-school-world-history,mmlu,237,True,0,0 1,2607,0.0,0:948 1:1659
+mmlu-human-aging,mmlu,223,True,0,0 1,2453,0.0,0:1140 1:1313
+mmlu-human-sexuality,mmlu,131,True,0,0 1,1441,0.0,0:671 1:770
+mmlu-international-law,mmlu,121,True,0,0 1,1331,0.0,0:524 1:807
+mmlu-jurisprudence,mmlu,108,True,0,0 1,1188,0.0,0:513 1:675
+mmlu-logical-fallacies,mmlu,163,True,0,0 1,1793,0.0,0:770 1:1023
+mmlu-machine-learning,mmlu,112,True,0,0 1,1232,0.0,0:776 1:456
+mmlu-management,mmlu,103,True,0,0 1,1133,0.0,0:450 1:683
+mmlu-marketing,mmlu,234,True,0,0 1,2574,0.0,0:920 1:1654
+mmlu-medical-genetics,mmlu,100,True,0,0 1,1100,0.0,0:483 1:617
+mmlu-miscellaneous,mmlu,783,True,0,0 1,8613,0.0,0:2990 1:5623
+mmlu-moral-disputes,mmlu,346,True,0,0 1,3806,0.0,0:1856 1:1950
+mmlu-moral-scenarios,mmlu,895,True,0,0 1,9845,0.0,0:6993 1:2852
+mmlu-nutrition,mmlu,306,True,0,0 1,3366,0.0,0:1550 1:1816
+mmlu-philosophy,mmlu,311,True,0,0 1,3421,0.0,0:1587 1:1834
+mmlu-prehistory,mmlu,324,True,0,0 1,3564,0.0,0:1550 1:2014
+mmlu-professional-accounting,mmlu,282,True,0,0 1,3102,0.0,0:1841 1:1261
+mmlu-professional-law,mmlu,1534,True,0,0 1,16874,0.0,0:10355 1:6519
+mmlu-professional-medicine,mmlu,272,True,0,0 1,2992,0.0,0:1390 1:1602
+mmlu-professional-psychology,mmlu,612,True,0,0 1,6732,0.0,0:3219 1:3513
+mmlu-public-relations,mmlu,110,True,0,0 1,1210,0.0,0:594 1:616
+mmlu-security-studies,mmlu,245,True,0,0 1,2695,0.0,0:1336 1:1359
+mmlu-sociology,mmlu,201,True,0,0 1,2211,0.0,0:876 1:1335
+mmlu-us-foreign-policy,mmlu,100,True,0,0 1,1100,0.0,0:424 1:676
+mmlu-virology,mmlu,166,True,0,0 1,1826,0.0,0:1119 1:707
+mmlu-world-religions,mmlu,171,True,0,0 1,1881,0.0,0:689 1:1192
+mtbench,mtbench,41,False,11,0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1,451,0.5986696230598669,0.1:4 0.2:9 0.3:16 0.4:25 0.5:27 0.6:2 0.7:35 0.8:45 0.9:107 1:181
+mtbench-math,mtbench,20,False,11,0.1 0.2 0.3 0.4 0.5 0.7 0.8 0.9 1,220,0.6818181818181818,0.1:109 0.2:14 0.3:12 0.4:6 0.5:3 0.7:2 0.8:3 0.9:1 1:70
+mtbench-reference,mtbench,19,False,11,0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1,209,0.8708133971291866,0.1:64 0.2:45 0.3:14 0.4:10 0.5:7 0.6:1 0.7:10 0.8:13 0.9:18 1:27
+test-match,test-match,3,True,0,0 1,33,0.0,0:19 1:14
+winogrande,winogrande,1267,True,0,0 1,13937,0.0,0:5805 1:8132

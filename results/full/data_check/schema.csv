@@ -1,0 +1,38 @@
+column,role,dtype,python_types,n_missing,n_empty_string,n_unique
+sample_id,id (contains benchmark name; never a feature),object,str:36497,0,0,36497
+prompt,prompt,object,str:36497,0,0,36481
+eval_name,benchmark (never a feature),object,str:36497,0,0,86
+WizardLM/WizardLM-13B-V1.2,score,object,float:36497,0,0,12
+claude-instant-v1,score,object,float:36497,0,0,12
+claude-v1,score,object,float:36497,0,0,13
+claude-v2,score,object,float:36497,0,0,12
+gpt-3.5-turbo-1106,score,object,float:36497,0,0,12
+gpt-4-1106-preview,score,object,float:36497,0,0,12
+meta/code-llama-instruct-34b-chat,score,object,float:36497,0,0,12
+meta/llama-2-70b-chat,score,object,float:36497,0,0,12
+mistralai/mistral-7b-chat,score,object,float:36497,0,0,13
+mistralai/mixtral-8x7b-chat,score,object,float:36497,0,0,12
+zero-one-ai/Yi-34B-Chat,score,object,float:36497,0,0,11
+gpt-3.5-turbo-1106|model_response,response,object,str:36497,0,0,9185
+claude-instant-v1|model_response,response,object,str:36497,0,0,9309
+claude-v1|model_response,response,object,str:36497,0,0,8922
+claude-v2|model_response,response,object,str:36497,0,0,9219
+gpt-4-1106-preview|model_response,response,object,str:36497,0,0,9140
+meta/llama-2-70b-chat|model_response,response,object,str:36497,0,0,9457
+mistralai/mixtral-8x7b-chat|model_response,response,object,str:36497,0,0,9542
+zero-one-ai/Yi-34B-Chat|model_response,response,object,str:36497,0,0,9146
+WizardLM/WizardLM-13B-V1.2|model_response,response,object,str:36497,0,0,9169
+meta/code-llama-instruct-34b-chat|model_response,response,object,str:36497,0,0,9829
+mistralai/mistral-7b-chat|model_response,response,object,str:36497,0,0,9246
+gpt-3.5-turbo-1106|total_cost,cost,float64,float:36497,0,0,1420
+claude-instant-v1|total_cost,cost,float64,float:36497,0,0,2038
+claude-v1|total_cost,cost,float64,float:36497,0,0,1611
+claude-v2|total_cost,cost,float64,float:36497,0,0,1843
+gpt-4-1106-preview|total_cost,cost,float64,float:36497,0,0,2306
+meta/llama-2-70b-chat|total_cost,cost,float64,float:36497,0,0,1344
+mistralai/mixtral-8x7b-chat|total_cost,cost,float64,float:36497,0,0,1335
+zero-one-ai/Yi-34B-Chat|total_cost,cost,float64,float:36497,0,0,1547
+WizardLM/WizardLM-13B-V1.2|total_cost,cost,float64,float:36497,0,0,1517
+meta/code-llama-instruct-34b-chat|total_cost,cost,float64,float:36497,0,0,1341
+mistralai/mistral-7b-chat|total_cost,cost,float64,float:36497,0,0,1422
+oracle_model_to_route_to,derived from scores (never a feature),object,str:36497,0,0,12

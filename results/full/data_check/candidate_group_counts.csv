@@ -1,0 +1,14 @@
+candidate_group,n_eval_names,n_rows
+mmlu,57,14042
+hellaswag,1,10042
+grade-school-math,1,7450
+arc-challenge,1,1470
+winogrande,1,1267
+chinese,16,785
+mbpp,1,427
+consensus_summary,1,362
+bias_detection,1,285
+abstract2title,1,254
+mtbench,3,80
+accounting_audit,1,30
+test-match,1,3
