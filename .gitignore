@@ -1,0 +1,18 @@
+# Raw and cached data (large, not ours to redistribute)
+data/raw/
+data/cache/
+*.pkl
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary run outputs (keep results/sample and results/full themselves)
+results/**/tmp/
+
+# Personal and machine files
+.env
+.DS_Store
