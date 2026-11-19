@@ -1,0 +1,29 @@
+{
+  "source_file": "routerbench_0shot.pkl",
+  "dataset_revision": "784021482c3f320c6619ed4b3bb3b41a21424fcb",
+  "sha256": "ba4f77f19517610a707c374e99322d7750c30fc4ae7ff5527888595a1e65d36d",
+  "pandas_version": "3.1.1",
+  "n_rows": 36497,
+  "n_columns": 37,
+  "n_models": 11,
+  "models": [
+    "gpt-3.5-turbo-1106",
+    "claude-instant-v1",
+    "claude-v1",
+    "claude-v2",
+    "gpt-4-1106-preview",
+    "meta/llama-2-70b-chat",
+    "mistralai/mixtral-8x7b-chat",
+    "zero-one-ai/Yi-34B-Chat",
+    "WizardLM/WizardLM-13B-V1.2",
+    "meta/code-llama-instruct-34b-chat",
+    "mistralai/mistral-7b-chat"
+  ],
+  "n_eval_names": 86,
+  "n_candidate_groups": 13,
+  "sample_id_unique": true,
+  "n_eval_names_all_binary": 80,
+  "n_rows_in_all_binary_evals": 28590,
+  "n_dup_rows_within_eval": 14,
+  "n_prompts_parse_failed": 0
+}
