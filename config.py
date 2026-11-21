@@ -189,3 +189,15 @@ FULL = {
     "grids": GRIDS_FULL,
     "results_dir": RESULTS_FULL,
 }
+
+# === Avimta: settings ===
+# Embedding run (src/embed.py, PRD 8.2).
+# Batch size 64 is the PRD's starting value: large enough to keep the CPU
+# busy, small enough to stay well inside 8 GB RAM with MiniLM.
+EMBED_BATCH_SIZE = 64
+# Prompts per saved chunk. Each chunk is written to disk as soon as it is
+# done, so an interrupted overnight run resumes from the last finished chunk
+# instead of starting again.
+EMBED_CHUNK_SIZE = 2000
+EMB_CHUNK_DIR = CACHE_DIR / "emb_chunks"
+# === end Avimta ===
